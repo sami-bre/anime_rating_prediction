@@ -19,3 +19,6 @@ the raw files are in the same directory as the scripts.
 
 I got the raw data from Kaggle: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 it's a real life data collected people watching and rating anime.
+
+The two raw data files are highly truncated becuase the couldn't be pushed to github with their original sizes.
+I put the truncated files here to demonstrate what their content looks like.
